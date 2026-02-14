@@ -1,2 +1,5 @@
 # External cloned projects
 mall/
+
+# Java compiled files
+*.class
